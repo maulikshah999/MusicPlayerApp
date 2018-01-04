@@ -4,7 +4,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 /**
- * Created by Maulik on 12/8/2017.
+ * Created by Maulik Shah on 12/8/2017.
  */
 
 public class Song implements Parcelable {
